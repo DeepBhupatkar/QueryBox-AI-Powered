@@ -37,9 +37,9 @@ To get a local copy up and running, follow these simple steps.
 ### Installation
 
 1. Clone the repo:
-   \`\`\`sh
+    ```bash
    git clone https://github.com/DeepBhupatkar/QueryBox-AI-Powered.git
-   \`\`\`
+    ```
 
 2. Install CocoaPods dependencies:
    \`\`\`sh
