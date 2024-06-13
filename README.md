@@ -48,9 +48,12 @@ To get a local copy up and running, follow these simple steps.
    \`\`\`
 
 3. Open the project in Xcode:
-   \`\`\`sh  open QueryBox.xcworkspace \`\`\`
+   \`\`\`sh
+   open QueryBox.xcworkspace
+   \`\`\`
 
 4. Set up your Azure backend and configure the API endpoints in your project.
+
 
 ### Usage
 
