@@ -42,15 +42,15 @@ To get a local copy up and running, follow these simple steps.
     ```
 
 2. Install CocoaPods dependencies:
-   \`\`\`sh
+    ```bash
    cd QueryBox-AI-Powered
    pod install
-   \`\`\`
+    ```
 
 3. Open the project in Xcode:
-   \`\`\`sh
+   ```bash
    open QueryBox.xcworkspace
-   \`\`\`
+   ```
 
 4. Set up your Azure backend and configure the API endpoints in your project.
 
