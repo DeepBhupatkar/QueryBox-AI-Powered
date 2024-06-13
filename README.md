@@ -48,9 +48,7 @@ To get a local copy up and running, follow these simple steps.
    \`\`\`
 
 3. Open the project in Xcode:
-   \`\`\`sh
-   open QueryBox.xcworkspace
-   \`\`\`
+   \`\`\`sh  open QueryBox.xcworkspace \`\`\`
 
 4. Set up your Azure backend and configure the API endpoints in your project.
 
@@ -61,7 +59,7 @@ To get a local copy up and running, follow these simple steps.
 
 ## Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the Project
 2. Create your Feature Branch (\`git checkout -b feature/AmazingFeature\`)
