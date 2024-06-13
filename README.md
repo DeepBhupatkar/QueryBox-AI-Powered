@@ -1,10 +1,6 @@
 # QueryBox-AI-Powered
-#!/bin/bash
 
-# README content for an iOS app with OCR and ChatGPT
-
-cat <<EOF > README.md
-# 🚀 Innovative iOS App with OCR and ChatGPT
+#  Innovative iOS App with OCR and ChatGPT
 
 Excited to share a major milestone! We've built an innovative iOS application that combines the power of OCR and ChatGPT to respond to image queries/questions with incredible speed and accuracy.
 
