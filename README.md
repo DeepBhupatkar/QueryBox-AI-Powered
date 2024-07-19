@@ -14,7 +14,7 @@ Excited to share a major milestone! We've built an innovative iOS application th
 
 ## Detailed Features
 
-### Vision Kit
+### Vision Kit.
 
 Vision Kit is a powerful framework provided by Apple for text and image analysis. It offers robust tools for detecting and recognizing text within images, which is essential for OCR (Optical Character Recognition) functionality. With Vision Kit, our app can accurately and efficiently extract text from images captured by the user, enabling a wide range of applications from document scanning to real-time translation.
 
